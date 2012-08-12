@@ -1,0 +1,18 @@
+{
+	"title": "Introducing Socket.IO Emitter (Video)",
+	"description": "How to make your webapp have cross-browser soft-realtime behaviour.",
+	"date": "Sun, 12 Aug 2012 18:07:44 GMT",
+	"tags": ["socket.io", "realtime"],
+	"authors": [
+    { "name": "Pedro Teixeira",
+		  "email": "pedro.teixeira@gmail.com",
+		  "url": "https://github.com/pgte",
+		  "twitter": "http://twitter.com/pgte"
+    }
+	],
+	"difficulty": 5,
+  "categories": [
+    ["Web Frameworks"],
+    ["HTTP", "Server"]
+  ]
+}
